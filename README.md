@@ -1,5 +1,5 @@
 # VehicleDetection
-This project uses YOLOv3 (You Only Look Once) and OpenCV to detect vehicles in a parking lot and determine the availability of parking spaces. It processes a video feed, identifies vehicles using YOLOv3, and checks the occupancy of predefined parking slots.
+Here we use YOLOv3 (You Only Look Once) and OpenCV to detect vehicles in a parking lot and determine the availability of parking spaces. It processes a video feed, identifies vehicles using YOLOv3, and checks the occupancy of predefined parking slots.
 
 Features
 Vehicle Detection:
